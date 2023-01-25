@@ -5,13 +5,13 @@
 clone the repo to your local machine by
 
 ```bash
-git clone <linkHere>
+git clone <Click code and copy link 🔗>
 ```
 
 ## 2. install dependencies
 
 ```bash
-yarn install
+yarn
 ```
 
 ## 3. start the app
